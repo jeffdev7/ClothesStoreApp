@@ -1,12 +1,12 @@
 <?php
  require_once("../shared/header.php");
- #require_once("../model/conexao.php");
+ require_once("../../Settings/Connection.php");
  ?>
 
 <div class="box">
-<h1>Cadastro de fornecedores</h1>
+<h1>New department</h1>
 
-<form class="row g-3" method="POST" action="../controller/addFornecedor.php">
+<form class="row g-3" method="POST" action="../controller/AddDepartment.php">
 
 <div class="col-8">
     <label for="fornecedor" class="form-label">Fornecedor</label>

@@ -27,7 +27,7 @@
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="employee/Employee.php">Employee</a></li>
-            <li><a class="dropdown-item" href="supplier/Supplier.php">Supplier</a></li>
+            <li><a class="dropdown-item" href="department/Department.php">Department</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">

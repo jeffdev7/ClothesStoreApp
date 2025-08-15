@@ -1,12 +1,12 @@
 <?php
  require_once("../shared/header.php");
-# require_once("../model/conexao.php");
+ require_once("../../Settings/Connection.php");
  ?>
 
 <div class="box">
 <h1>Funcionários</h1>
 
-<form class="row g-3" method="POST" action="../controller/addFuncionario.php">
+<form class="row g-3" method="POST" action="/clothesstoreapp/Usecase/Employee/AddEmployee.php">
 
 <div class="col-8">
     <label for="funcionario" class="form-label">Nome</label>

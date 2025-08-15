@@ -24,19 +24,19 @@
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Cadastro
+            Entry
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">Funcionário</a></li>
-            <li><a class="dropdown-item" href="#">Fornecedor</a></li>
+            <li><a class="dropdown-item" href="/clothesstoreapp/View/employee/Employee.php">Funcionário</a></li>
+            <li><a class="dropdown-item" href="/clothesstoreapp/View/department/Department.php">Fornecedor</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Pesquisa
+            Search
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="visu_Cliente.php">Cliente</a></li>
+            <li><a class="dropdown-item" href="EmployeeSearch.php">Employee</a></li>
           </ul>
         </li>
       </ul>
